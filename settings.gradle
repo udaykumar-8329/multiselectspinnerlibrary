@@ -1,0 +1,3 @@
+include ':multiselectspinner'
+include ':app'
+rootProject.name = "MultiSelectDropDown"
