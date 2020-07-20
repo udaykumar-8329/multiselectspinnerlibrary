@@ -16,6 +16,6 @@ A sample library to use multiple select checkboxes in a spinner
 ### Add the dependency
 
 	dependencies {
-	        implementation 'com.github.udaykumar-8329:multiselectspinnerlibrary:Tag'
+	        implementation 'com.github.udaykumar-8329:multiselectspinnerlibrary:v1.0'
 	}
   
